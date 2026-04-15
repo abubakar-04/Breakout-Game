@@ -1,0 +1,12 @@
+# Build and IDE files
+bin/
+build/
+.vs/
+out/
+*.exe
+*.pdb
+*.obj
+
+# Libraries (usually added via project settings, not tracked in source)
+*.lib
+*.dll
